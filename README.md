@@ -6,7 +6,7 @@ The client was the owner of DriverPass. They requested we make a system that all
 
 What did you do particularly well? 
 
-I felt that I did a particularly good job regarding the different UML diagrams for the activity, case, sequence, and the class diagrams. I tried to be as clear as I could with each of them so they could be understood. Another esection that I felt I had done well would be discussing the technical requirements of the project. 
+I felt that I did a particularly good job regarding the different UML diagrams for the activity, case, sequence, and the class diagrams. I tried to be as clear as I could with each of them so they could be understood. Another section that I felt I had done well would be discussing the technical requirements of the project. 
 
 If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?
 
